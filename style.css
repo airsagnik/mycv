@@ -1,0 +1,32 @@
+body{
+  background-color: #A8E7E9;
+}
+
+hr
+{
+  background-color:#A8E7E9;
+  border-style:none;
+  border-top:dotted;
+  border-top-width:10px;
+  border-color: grey;
+  width: 10%;
+}
+
+h3{
+  color: #0F3460;
+  width: 50%
+}
+
+h1{
+  color: #0F3460;
+}
+
+.left
+{
+  align-content: flex-end;
+}
+
+.connect:hover
+{
+  background-color: red;
+}
